@@ -1,6 +1,6 @@
 ### Olá sejá bem-vindo 👋, meu nome é Rychard e esse é meu perfil do GitHub 🍓
 
-- 🔭 Atualmente estou trabalhando como : Atendente
+- 🔭 Atualmente estou desempregado 
 - 🌱 Estou aprendendo HTML e CSS
 - 👯 Estou procurando colaborar em 
 - 🤔 Estou procurando ajuda com qualquer informação sobre TI
