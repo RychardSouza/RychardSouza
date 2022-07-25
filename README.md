@@ -7,7 +7,7 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como chegar até mim: rychardalemao18@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Meu nome é Rychard, atualmente em 2022 tenho 14 anos, sou uma pessoa que gosta muito de buscar conhecimento, e tento ajudar a todos com qualquer duvida que eu possa ajudar!
+- ⚡ Curiosidade: Meu nome é Rychard, atualmente em 2022 tenho 15 anos, sou uma pessoa que gosta muito de buscar conhecimento, e tento ajudar a todos com qualquer duvida que eu possa ajudar!
 
  ##
 
