@@ -18,7 +18,8 @@
   <img align="center" alt="Ry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ry-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/238153822_431390451424514_8428311420294739705_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=OVDh7YWzR2QAX_t3mxS&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY0MjEwMzQxODI0MjQ1NDAxNA%3D%3D.2-ccb7-4&oh=00_AT-ezpcbAlgcf2V1xEjdpGLz7ldwGj8HFKUgsIZdhG9NMw&oe=6223DA06&_nc_sid=30a2ef">
+   <img align="center" alt="Ry-PYTHON" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+  
 </div>
   
  ##
