@@ -1,8 +1,3 @@
-### Olá sejá bem-vindo 👋, meu nome é Rychard e esse é meu perfil do GitHub 🍓
-
-- 🔭 Atualmente a procura de uma vaga de emprego
-- 🌱 Estou aprendendo HTML, CSS, JS e Python
-- 🤔 Estou procurando ajuda com qualquer informação sobre TI
 - 📫 Como chegar até mim: rychardsouzadev@gmail.com
  ##
 
