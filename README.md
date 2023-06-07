@@ -18,7 +18,7 @@
   <img align="center" alt="Ry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ry-PYTHON" height="40" width="40" src="https://cdn.discordapp.com/attachments/1115985055236509748/1116002635691085824/Python-logo-notext.svg.png">
+   <img align="center" alt="Ry-PYTHON" height="35" width="40" src="https://cdn.discordapp.com/attachments/1115985055236509748/1116002635691085824/Python-logo-notext.svg.png">
   
 </div>
   
