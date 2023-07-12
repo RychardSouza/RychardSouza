@@ -1,9 +1,11 @@
 ### Olá sejá bem-vindo 👋, meu nome é Rychard e esse é meu perfil do GitHub 🍓
 
+"Front-end Developer apaixonado por criar interfaces incríveis. :rocket:"
+
 - 🔭 Atualmente a procura de uma vaga de emprego
 - 🌱 Estou aprendendo HTML, CSS, JS e Python
 - 🤔 Estou procurando ajuda com qualquer informação sobre TI
-- 📫 Como chegar até mim: rychardsouzadev@gmail.com
+- 📫 Como chegar até mim: https://linktr.ee/rycharddev
  ##
 
 <div align="center">
