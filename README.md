@@ -1,36 +1,21 @@
-### Olá sejá bem-vindo 👋, meu nome é Rychard e esse é meu perfil do GitHub 🍓
+# 💫 About Me:
+🔭 Atualmente a procura de uma vaga de emprego<br>🌱 Estou aprendendo HTML, CSS, JS e Python<br>🤔 Estou procurando ajuda com qualquer informação sobre TI<br>📫 Como chegar até mim: https://linktr.ee/rycharddev
 
-"Front-end Developer apaixonado por criar interfaces incríveis. :rocket:"
 
-- 🔭 Atualmente a procura de uma vaga de emprego
-- 🌱 Estou aprendendo HTML, CSS, JS e Python
-- 🤔 Estou procurando ajuda com qualquer informação sobre TI
-- 📫 Como chegar até mim: https://linktr.ee/rycharddev
- ##
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rycharddev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rycharddev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RychardDev) 
 
-<div align="center">
-  <a href="https://github.com/RychardSouza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RychardSouza&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RychardSouza&layout=compact&langs_count=7&theme=aura"/>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RychardSouza&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RychardSouza&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RychardSouza&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
- ##
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Ry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ry-PYTHON" height="40" width="40" src="https://cdn.discordapp.com/attachments/1115985055236509748/1116002635691085824/Python-logo-notext.svg.png">
-  
-</div>
-  
- ##
-  
- <div> 
-  <a href="https://www.instagram.com/rycharddev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rychardsouzadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/rychard-souza-025647279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=RychardSouza&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
