@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente a procura de uma vaga de emprego<br>🌱 Estou aprendendo HTML, CSS, JS e Python<br>🤔 Estou procurando ajuda com qualquer informação sobre TI<br>📫 Como chegar até mim: https://linktr.ee/rycharddev
+🔭 Atualmente a procura de uma vaga de emprego<br>🌱 Estou aprendendo HTML, CSS, JS e Python<br>🤔 Estou procurando ajuda com qualquer informação sobre TI<br>📫 Como chegar até mim: rychardalemao18@gmail.com
 
 
 ## 🌐 Socials:
